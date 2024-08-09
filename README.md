@@ -3,6 +3,8 @@ Being Updated
 
 Download Loader & Conversion Kit from releases (All In 1)
 
+Plug in your ethernet cable between your pc and ps4, open pppwn loader, and just press start. Double check to make sure your wifi on ps4 is ticked on, do not reconfigure any settings, it won't connect you to the internet, just your pc. 
+
 PS4 = No link access, can't locate the website by search at this time
 PSX-FPKG = PS1
 PS2-FPKG = PS2
