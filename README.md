@@ -1,6 +1,7 @@
 # PS4-PPPWn-and-Game-Loading-Prepackaged-Tutorial
 Being Updated
 
+Download Loader & Conversion Kit from releases (All In 1)
 
 PS4 = No link access, can't locate the website by search at this time
 PSX-FPKG = PS1
